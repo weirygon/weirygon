@@ -20,7 +20,7 @@
    </a>
    
    <a href="https://www.intagram.com/weiry_gon/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/weiry_gon-FFFFFFF?style=flat&logo=instagram" alt="instagram"/>  
+      <img align="center" src="https://img.shields.io/badge/weiry_gon-FFFFFF?style=flat&logo=instagram" alt="instagram"/>  
    </a>
 
 </p>
