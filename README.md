@@ -23,8 +23,8 @@
 
 # GitHub Analytics <img src="https://c.tenor.com/T-pW4c5b4y0AAAAj/gofourward-webdesign.gif" width="25px" >
 
-<div>
-   ![](https://raw.githubusercontent.com/weirygon/Stats/master/generated/overview.svg#gh-dark-mode-only)
-   ![](https://raw.githubusercontent.com/weirygon/Stats/master/generated/overview.svg#gh-light-mode-only)
+   ![](https://github.com/weirygon/Stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+   ![](https://github.com/weirygon/Stats/blob/master/generated/languages.svg#gh-dark-mode-only)
    
-</div>
+   
+
