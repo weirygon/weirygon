@@ -18,6 +18,10 @@
    <a href="https://www.facebook.com/weiry.goncalves/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Weiry Gonçalves-FFFFFF?style=flat&logo=facebook" alt="facebook"/>  
    </a>
+   
+   <a href="https://www.intagram.com/weiry_gon/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/weiry_gon-FFFFFFF?style=flat&logo=instagram" alt="instagram"/>  
+   </a>
 
 </p>
 
