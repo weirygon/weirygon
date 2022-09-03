@@ -23,4 +23,8 @@
 
 # GitHub Analytics <img src="https://c.tenor.com/T-pW4c5b4y0AAAAj/gofourward-webdesign.gif" width="25px" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weirygon&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+   ![](https://raw.githubusercontent.com/weirygon/Stats/master/generated/overview.svg#gh-dark-mode-only)
+   ![](https://raw.githubusercontent.com/weirygon/Stats/master/generated/overview.svg#gh-light-mode-only)
+   
+</div>
