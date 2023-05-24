@@ -8,7 +8,7 @@
 <p align="left" style="background:yellow">
   
    <a href="mailto:weirygon@gmail.com" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/gonweiry-FFFFFF?style=flat&logo=gmail" alt="gmail"/>  
+      <img align="center" src="https://img.shields.io/badge/weirygon-FFFFFF?style=flat&logo=gmail" alt="gmail"/>  
    </a>
   
   <a href="https://www.linkedin.com/in/weirygon/" target="_blank">
@@ -20,7 +20,7 @@
    </a>
    
    <a href="https://www.instagram.com/weirygon/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/weiry_gon-FFFFFF?style=flat&logo=instagram" alt="instagram"/>  
+      <img align="center" src="https://img.shields.io/badge/weirygon-FFFFFF?style=flat&logo=instagram" alt="instagram"/>  
    </a>
 
 </p>
