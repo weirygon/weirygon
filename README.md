@@ -7,7 +7,7 @@
 
 <p align="left" style="background:yellow">
   
-   <a href="mailto:gonweiry@gmail.com" target="_blank">
+   <a href="mailto:weirygon@gmail.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/gonweiry-FFFFFF?style=flat&logo=gmail" alt="gmail"/>  
    </a>
   
@@ -19,7 +19,7 @@
       <img align="center" src="https://img.shields.io/badge/Weiry Gonçalves-FFFFFF?style=flat&logo=facebook" alt="facebook"/>  
    </a>
    
-   <a href="https://www.intagram.com/weiry_gon/" target="_blank">
+   <a href="https://www.intagram.com/weirygon/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/weiry_gon-FFFFFF?style=flat&logo=instagram" alt="instagram"/>  
    </a>
 
