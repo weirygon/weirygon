@@ -1,7 +1,7 @@
 # Hi Everone <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Weiry.
    - 👨‍🎓 Computer Science Student.
    - 💼 Information Security Analyst.
-   - 💖💻 Networks, Cloud and Hacking.
+   - 💖💻 Linux, Cloud and Hacking.
 
 # Contact 
 
