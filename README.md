@@ -1,9 +1,9 @@
-# Hi Everone <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Weiry.
+# Hi Everone <img src="./gifs/hi.gif" width="30px">, I'm Weiry.
    - 👨‍🎓 Computer Science Student.
    - 💼 Information Security Analyst.
    - 💖💻 Linux, Cloud and Hacking.
 
-# Top Languages <img src="https://camo.githubusercontent.com/9a7f7e4eb42ed650ed503426155bb2f0aa886047b024b2f2bb2f882e5823d078/68747470733a2f2f632e74656e6f722e636f6d2f542d705734633562347930414141416a2f676f666f7572776172642d77656264657369676e2e676966" width="30px">
+# Top Languages <img src="./gifs/stats.gif" width="30px">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weirygon&layout=compact)   
 
 # Contact 
