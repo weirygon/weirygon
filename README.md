@@ -1,7 +1,7 @@
 # Hi Everone <img src="./gifs/hi.gif" width="30px">, I'm Weiry.
-   - 👨‍🎓 Computer Science Student.
-   - 💼 Information Security Analyst.
-   - 💖💻 Linux, Cloud and Hacking.
+   - 👨‍🎓 B.S. in Computer Science.
+   - 💼 Software Developer.
+   - 💖💻 Linux, Programming and Cloud.
 
 # Top Languages <img src="./gifs/stats.gif" width="30px">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weirygon&layout=compact)   
